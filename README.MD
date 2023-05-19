@@ -10,7 +10,7 @@ Example board
 ![Screenshot](/PICTURES/00_103RCT6_AMS1117_33.jpg)
 ![Screenshot](/PICTURES/04A_OLED.jpg)
 ![Screenshot](/PICTURES/Schematic_STM32F103RCT6-MINI_2023-05-04.gif)
-![Screenshot](/PICTURES/_3D_TOP.png)
+![Screenshot](/PICTURES/3D_TOP.png)
 ![Screenshot](/PICTURES/PCB_01.gif)
 ![Screenshot](/PICTURES/PCB_02.gif)
 ![Screenshot](/PICTURES/PCB_03.gif)
